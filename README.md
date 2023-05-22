@@ -10,4 +10,4 @@
 Разработчики:
 1. `main`, `controller` – samodurOFF
 2. `model` – Иван Иванов
-3. `view` – Василий Пупкин, функция `greetings` – samodurOFF
+3. `view` – Василий Пупкин, функция `menu` – samodurOFF
